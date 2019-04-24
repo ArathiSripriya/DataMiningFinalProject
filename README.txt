@@ -6,8 +6,14 @@ Briana Vargas
 DarwinCode_UnbalancedData.ipynb
 	- The Jupyter Notebook used to perform data mining on our unbalanced (original) aggregated dataset (found in COMBINEDDATA.csv)
 
+DarwinCode_UnbalancedData.HTML
+	-HTML file corresponding to our notebook; used to display outputs
+
 DarwinCode_ClassImbalanceHandling.ipynb
 	- The Jupyter Notebook used to perform data mining on our balanced (upscaled) aggregated dataset (found in COMBINEDDATA.csv)
+
+DarwinCode_ClassImbalanceHandling.HTML
+	-HTML file corresponding to our notebook; used to display outputs
 
 COMBINEDDATA.csv
 	- Aggregate of the six CDC datasets found in chsi_dataset folder
